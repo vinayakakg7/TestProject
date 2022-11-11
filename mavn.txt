@@ -1,0 +1,1 @@
+https://github.com/web3j/sample-project-maven.git--- Maven clone url
